@@ -1,4 +1,4 @@
-import java.util.*;
+package DP;
 import java.io.*;
 
 public class BOJ_G5_15989 {
