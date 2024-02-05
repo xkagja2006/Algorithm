@@ -1,4 +1,4 @@
-package 문자열;
+
 
 import java.io.*;
 public class BOJ_G5_12919 {
