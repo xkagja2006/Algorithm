@@ -7,7 +7,7 @@ public class BOJ_S5_8979_올림픽 {
      int num;
      int gold;   
      int silver;   
-     int bronze;
+     int bronze; 
 
      @Override
      public int compareTo(Nation n){
