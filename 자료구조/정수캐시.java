@@ -1,5 +1,3 @@
-package 자료구조;
-
 public class 정수캐시 {
     public static void main(String[] args){
         Integer a = 100;
